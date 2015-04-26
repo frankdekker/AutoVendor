@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+r84 | egrimm | 2015-01-24 10:07:40 +0000 (Sat, 24 Jan 2015) | 1 line
+Changed paths:
+   A /tags/v26 (from /trunk:83)
+
+Updated unusable weapons for hunters.
+------------------------------------------------------------------------
+r83 | egrimm | 2015-01-24 10:07:23 +0000 (Sat, 24 Jan 2015) | 1 line
+Changed paths:
+   M /trunk/AutoVendor.lua
+   M /trunk/AutoVendor.toc
+
+Updated unusable weapons for hunters.
+------------------------------------------------------------------------
